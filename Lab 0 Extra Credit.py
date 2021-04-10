@@ -8,6 +8,3 @@ _power = x**y
 _division = x/y
 
 print (_sum, _difference, _product, _power, _division)
-
-
-
